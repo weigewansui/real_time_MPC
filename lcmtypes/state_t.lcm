@@ -1,0 +1,6 @@
+struct state_t {
+	int64_t timestamp;
+	double accel[3];
+	double angle[3];
+	double angular_vel[3];
+}

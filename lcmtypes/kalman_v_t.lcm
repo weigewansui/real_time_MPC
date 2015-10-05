@@ -1,0 +1,5 @@
+struct kalman_v_t {
+	double pos[3];
+	double vel[3];
+	double accel[3];
+}

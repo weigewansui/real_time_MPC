@@ -1,0 +1,9 @@
+struct command_t {
+
+	int64_t timestamp;
+	int16_t thrust;
+	int16_t roll;
+	int16_t pitch;
+	int16_t yaw;
+
+}

@@ -1,0 +1,6 @@
+struct accel_t {
+	
+	int64_t timestamp;
+	double accel[3];
+	
+}

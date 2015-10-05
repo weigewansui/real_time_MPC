@@ -1,0 +1,6 @@
+struct real_accel_t 
+{
+		
+	double accel[3];
+
+}
